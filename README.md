@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... modifing code.
 - 🌱 I’m currently learning ... Androi/IOS/Web
 - 💞️ I’m looking to collaborate on ... what I’m currently learning 
-- 📫 How to reach me ...  C698844402@gmail.com
+- 📫 How to reach me ...[telegram]->  @ww2reda   👆
 
 <!---
 C698844402/C698844402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
